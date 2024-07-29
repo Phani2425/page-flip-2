@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/page-flip-2/' // Replace with your GitHub Pages repository name
+  base: '/your-repo-name/' // Replace with your GitHub Pages repository name
 });
